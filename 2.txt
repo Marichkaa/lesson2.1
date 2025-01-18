@@ -1,1 +1,2 @@
-Added text from master
+
+Added text from master and Added text from newBranch
