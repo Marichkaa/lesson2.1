@@ -1,2 +1,4 @@
 
 Added text from master and Added text from newBranch
+
+Also added text from master to show git rebase
